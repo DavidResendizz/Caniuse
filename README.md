@@ -1,4 +1,4 @@
-caniuse-cmd
+Caniuse
 ===========
 
 Just what you've always wanted, it's a `caniuse` command line tool!
@@ -8,7 +8,7 @@ All the power of [caniuse.com](http://caniuse.com) with none of the nice UI or i
 How do?
 -------
 
-Install with `npm install -g caniuse-cmd`.
+Install with Snap typing `sudo snap install caniuse`.
 
 Then type things like this:
 
